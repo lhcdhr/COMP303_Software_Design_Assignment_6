@@ -1,0 +1,12 @@
+move 100.0 action performed, battery level is 95
+turn left 90 degree action performed, battery level is 90
+grab action performed, battery level is 89
+compact action performed, battery level is 86
+grab action performed, battery level is 84
+compact action performed, battery level is 81
+recharge and grab action performed, battery level is 96
+compact action performed, battery level is 95
+{grab||compact||} as a complex action performed, battery level is 88
+{move 50.0||turn right 90 degree||} as a complex action performed, battery level is 86
+{move 50.0||turn right 90 degree||} as a complex action performed, battery level is 80
+{move 50.0||turn right 90 degree||} as a complex action performed, battery level is 74

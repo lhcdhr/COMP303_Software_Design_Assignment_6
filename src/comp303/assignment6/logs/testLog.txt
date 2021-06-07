@@ -1,0 +1,5 @@
+move 10.0 action performed, battery level is 98
+turn right 90 degree action performed, battery level is 96
+grab action performed, battery level is 95
+compact action performed, battery level is 92
+empty action performed, battery level is 88
