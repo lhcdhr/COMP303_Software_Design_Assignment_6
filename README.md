@@ -1,5 +1,5 @@
 # WALL-E Robot
-This is the final assignment of COMP303 Software Design.  
+This is the final assignment of COMP303 Software Design. 
 ## Deliverables
 Unit test is implemented to cover possible situations. The branch converage reached 100%.  
 A demo is provided in driver.java, and it will show how the robot works.  
@@ -20,4 +20,9 @@ The client can create a program that is composed of basic and/or complex actions
 Some computations can be done and data will be recorded. For example, the total number of compacted objects. The result of such calculations can be get before the execution of the program.  
 Actions will not be executed if the current state of robot violates the pre-conditions.   
 There is a logging system to generate log in order to keep track of the actions of the robot. The log can be saved to a file or print to the console。  
-
+## Design
+Singleton - grab, release, compact empty actions are implemented with singleton pattern
+Flyweight - turn action is implemented with flyweight pattern
+Decorator - adopted by the charging requests
+Visitor - for the calculation of compacted items, moving distance, and turning degree
+Observer - the log system
