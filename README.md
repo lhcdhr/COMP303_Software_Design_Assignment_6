@@ -26,3 +26,5 @@ Flyweight - turn action is implemented with flyweight pattern
 Decorator - adopted by the charging requests  
 Visitor - for the calculation of compacted items, moving distance, and turning degree  
 Observer - the log system  
+## Diagrams
+![alt text](class diagram.png)
