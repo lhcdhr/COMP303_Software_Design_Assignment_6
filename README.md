@@ -21,8 +21,8 @@ Some computations can be done and data will be recorded. For example, the total 
 Actions will not be executed if the current state of robot violates the pre-conditions.   
 There is a logging system to generate log in order to keep track of the actions of the robot. The log can be saved to a file or print to the console。  
 ## Design
-Singleton - grab, release, compact empty actions are implemented with singleton pattern
-Flyweight - turn action is implemented with flyweight pattern
-Decorator - adopted by the charging requests
-Visitor - for the calculation of compacted items, moving distance, and turning degree
-Observer - the log system
+Singleton - grab, release, compact empty actions are implemented with singleton pattern  
+Flyweight - turn action is implemented with flyweight pattern  
+Decorator - adopted by the charging requests  
+Visitor - for the calculation of compacted items, moving distance, and turning degree  
+Observer - the log system  
