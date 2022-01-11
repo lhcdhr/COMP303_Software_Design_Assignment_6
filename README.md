@@ -27,9 +27,9 @@ Decorator - adopted by the charging requests
 Visitor - for the calculation of compacted items, moving distance, and turning degree  
 Observer - the log system  
 ## Diagrams
-Class Diagram  
+### Class Diagram  
 ![alt text](https://github.com/lhcdhr/WALL-E-Robot-Software-Design/blob/main/class%20diagram.png)  
-Sequence Diagram  
+### Sequence Diagram  
 ![alt text](https://github.com/lhcdhr/WALL-E-Robot-Software-Design/blob/main/sequence%20diagram.png)  
-State Diagram  
+### State Diagram  
 ![alt text](https://github.com/lhcdhr/WALL-E-Robot-Software-Design/blob/main/state%20diagram.png)
